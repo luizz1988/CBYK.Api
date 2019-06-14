@@ -1,0 +1,6 @@
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Entity\bin\Debug\CBYK.Api.Entity.dll
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Entity\bin\Debug\CBYK.Api.Entity.pdb
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Entity\obj\Debug\CBYK.Api.Entity.csprojAssemblyReference.cache
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Entity\obj\Debug\CBYK.Api.Entity.csproj.CoreCompileInputs.cache
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Entity\obj\Debug\CBYK.Api.Entity.dll
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Entity\obj\Debug\CBYK.Api.Entity.pdb

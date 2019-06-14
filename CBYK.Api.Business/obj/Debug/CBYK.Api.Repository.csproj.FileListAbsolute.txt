@@ -1,0 +1,16 @@
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Business\bin\Debug\CBYK.Api.Repository.dll.config
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Business\bin\Debug\CBYK.Api.Repository.dll
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Business\bin\Debug\CBYK.Api.Repository.pdb
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Business\bin\Debug\CBYK.Api.Entity.dll
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Business\bin\Debug\EntityFramework.dll
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Business\bin\Debug\CBYK.Api.Entity.pdb
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Business\bin\Debug\EntityFramework.xml
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Business\obj\Debug\CBYK.Api.Repository.csprojAssemblyReference.cache
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Business\obj\Debug\CBYK.Api.Repository.csproj.CoreCompileInputs.cache
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Business\obj\Debug\CBYK.Api.Repository.csproj.CopyComplete
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Business\obj\Debug\CBYK.Api.Repository.dll
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Business\obj\Debug\CBYK.Api.Repository.pdb
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Business\obj\Debug\CBYK.Api.Repository.Migrations.Create.resources
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Business\obj\Debug\CBYK.Api.Repository.csproj.GenerateResource.cache

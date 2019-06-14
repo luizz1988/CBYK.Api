@@ -1,0 +1,11 @@
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Repository.Dapper\bin\Debug\CBYK.Api.Repository.Dapper.dll
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Repository.Dapper\bin\Debug\CBYK.Api.Repository.Dapper.pdb
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Repository.Dapper\bin\Debug\CBYK.Api.Entity.dll
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Repository.Dapper\bin\Debug\Dapper.dll
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Repository.Dapper\bin\Debug\CBYK.Api.Entity.pdb
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Repository.Dapper\bin\Debug\Dapper.xml
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Repository.Dapper\obj\Debug\CBYK.Api.Repository.Dapper.csprojAssemblyReference.cache
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Repository.Dapper\obj\Debug\CBYK.Api.Repository.Dapper.csproj.CoreCompileInputs.cache
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Repository.Dapper\obj\Debug\CBYK.Api.Repository.Dapper.csproj.CopyComplete
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Repository.Dapper\obj\Debug\CBYK.Api.Repository.Dapper.dll
+C:\Projetos Particular\CBYK.Api\CBYK.Api.Repository.Dapper\obj\Debug\CBYK.Api.Repository.Dapper.pdb
